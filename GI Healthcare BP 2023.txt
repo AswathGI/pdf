@@ -1,0 +1,1984 @@
+GI Healthcare
+
+Business Plan
+
+
+Founder Bio
+Full Name: Aswath Ganesan Indra
+Role: Director and Founder/CEO
+Qualification: MSc Robotics
+Interests: Entrepreneurship, Robotics, Artificial Intelligence,
+Product Designing and Development.
+In the past two years, under the Start-Up Visa, Aswath Founded and led
+GI Healthcare with outstanding leadership and unwavering commitment in Bristol, UK. Despite the
+adversity posed by the COVID-19 pandemic, he displayed remarkable resilience by securing initial
+funding through software consultancy operations and winning competitions at the university level.
+With these resources at hand, Ash steered the company's focus towards intensive research and
+development, leading to the successful launch of the first functional prototype in January 2023. His
+strong commitment to making healthy food accessible to all has been a driving force behind this
+remarkable accomplishment. Below are his noteworthy prior experiences that contributed to this
+achievement:
+
+Entrepreneurship experience:
+• E-commerce Seller: Successfully introduced and managed the family business on major ecommerce platforms in India (Amazon & Flipkart), achieving significant sales in six figures and
+earning best-seller ratings. Received the prestigious Seller Tycoon Award from Flipkart. (2020)
+• Innovator: Served as an Innovator at TCS Digital Impact Square, contributing to the
+development of a technology-based social enterprise supporting the livelihood of individuals with
+Dementia in Nashik, India. (2019)
+• Volunteer: Participated in a one-year social R&D project through the Live-In-Labs Program,
+focusing on creating a product for the Musahar community, aimed at improving their daily
+income and overall well-being. (2018)
+
+Technical & Professional Experience:
+• EarSwitch: Held the position of Technology Officer, playing a key role in the development of an
+innovative Ear Biometric device capable of providing accurate Heart Rate and Oxygen readings
+for individuals of all skin tones. (2022)
+• Toshiba: Worked as a Robotics Technician, contributing to the creation of an autonomous
+Charging system for the warehouse Swarm Robotics project known as DOTS. (2021)
+
+Business Summaryg
+In the current cost of living crisis over 9.7 million people in the UK alone are experiencing food
+insecurity leading to malnutrition and other health issues. GI Healthcare is a Food Tech company
+that designs and manufactures revolutionary deployable robotic kitchens with a vision of making
+healthy food accessible to anyone, anytime, anywhere. These kitchens are equipped with cuttingedge autonomous cooking technology which makes this kitchen highly scalable without the need
+for skilled labour and also results in lower energy bills and carbon emissions. GI Healthcare is
+dedicated to achieving the UN sustainability goal of Good Health & Well Being by making
+nutritious food affordable and accessible to everyone; the unique feature of our kitchens allows
+them to be operated at any location and offer healthy food at a lower price compared to other
+unhealthy fast food chains encouraging and enabling people to make healthy choices.
+
+Introductiong
+Founder Story:
+Aswath, commonly known as Ash, is a Robotics graduate from the prestigious University of Bristol.
+Ash's journey began with a disturbing experience during his master's degree. In 2019, he started his
+master's degree with immense academic pressure, and due to a lack of time, he was unable to cook
+healthy and nutritious food at home. This resulted in him depending heavily on cheap ultraprocessed and fast foods, which ultimately exacerbated his health problems. He was subsequently
+diagnosed with malnutrition and a stomach ulcer. Nevertheless, after this traumatic experience, Ash
+aspired to make fresh and healthy food available to all, anytime, anywhere.
+In today's fast-paced and busy lifestyle, it is challenging for everyone to have the convenience and
+patience of preparing healthy meals at home. Consequently, [1] the British diet has transformed
+from consuming 54% fresh food in the 1980s to 80% ultra-processed food in late 2020. This shift is
+strongly implicated in the increase in the number of people suffering from severe illnesses. In the
+UK, [2] 4.8 million people live with diabetes, [3] while 7.6 million people suffer from cardiovascular
+disease (CVD). Furthermore, 944,000 people have dementia, [4] and 3 million people have cancer
+[5]. Despite elderly people residing in care homes, [6] shockingly, over 3 million elderly individuals
+suffer from malnutrition. At the same time, [7] the UK is seeing a 35.5% of shortage in skilled food
+service workers. While inflation is causing bills to go up, over 2.1 million people in the UK cannot
+afford healthy food and are heavily relying on canned ultra-processed food from food banks.
+However, research conducted in UWE Bristol Frenchay Campus found that 97% of people would
+buy healthy food options if they were made convenient and cheaper. Currently, [8] the average price
+of Healthy food is 3 times more Expensive, it is £8.51 for 1,000 calories compared to just £3.25
+for 1,000 calories for an obesogenic unhealthy product. This price is projected to increase, due to
+the 3.7% increase in [9] rising labour price and rising [10] Gas & electricity price which has
+increased by 129.4% & 66.7% respectively.
+
+1
+
+Venture Launch:
+With the growing demand for convenient, healthy and affordable food options, coming from diverse
+groups, including Students, Professionals, and the Elderly like Peter from Stoke Gifford Village
+Retirement Home Bristol, who says, “I love cooking but I’m getting weaker every day and I’m
+losing my ability to cook. I have a caretaker now but she only microwaves frozen food or makes
+simple sandwiches and now I hate frozen food. I’m also sick of having the same food from the cafe,
+I would love to have my choice of meals meals anytime I want”. Ash established GI Healthcare
+Industries Limited in May 2021.
+
+Innovative Technologyg
+GI Healthcare excels in providing affordable and nutritious food by
+harnessing the potential of its Innovative technology, the advanced
+autonomous cooking machine known as AstroChef. We have
+designed AstroChef to be compact, allowing it to seamlessly fit
+within confined spaces and it has been ingeniously engineered to
+operate efficiently, utilizing minimal resources such as electricity,
+water, and ensuring a significant reduction in food waste. AstroChef
+autonomously manages the entire cooking process from Start to
+Finish, eliminating the need for human intervention. Our
+ambitious vision for AstroChef extends beyond Earth, with the
+aspiration to one day see it in action in outer space, specifically in
+the Mars Colonies. This passion and dream of ours drives our
+innovation in creating a technology that is not only versatile and
+adaptable but also sustainable and forward-thinking, pushing the
+boundaries of culinary innovation beyond Earth's confines.
+This machine, with a comparable size to a double oven, incorporates
+five foundational technologies that synergistically produce exceptional culinary outcomes.
+
+Core Technologies:
+1. AI Chef: The ingenious AI Chef utilizes decision based AI Technology to ensure consistent
+taste and quality in every dish. It autonomously adjusts the composition of food ingredients to
+accommodate specific dietary needs. Additionally, it recommends menu recipes based on the
+availability of ingredients, optimizing resource utilization and minimizing food waste.
+2. 3D Chopper: The remarkable 3D Chopper showcases its precision and dexterity in
+meticulously cutting food ingredients in three dimensions. Equipped with self-sharpening
+capabilities, this cutting-edge tool performs its task seamlessly, and designed to work even in
+zero-gravity environments, expanding the possibilities of food preparation.
+2
+
+3. 360 Heating: The revolutionary 360 Heating technology employs electricity to cook food
+evenly and efficiently at 360 degrees. By utilizing this method, AstroChef maximizes the
+retention of food nutrients while reducing carbon emissions by up to 90% compared to
+conventional gas-based cooking processes. This not only contributes to environmental
+sustainability but also results in energy savings and shorter cooking times.
+4. PDS: The ingenious Precise Delivery System (PDS) ensures that seasonings and sauces are
+dispensed in precise amounts, guaranteeing well-balanced flavours in every dish. This system
+allows for customization, catering to diverse preferences such as desired spice levels or low
+sodium requirements for individuals with conditions like diabetes.
+5. Fused Cleaning: The advanced Fused Cleaning technology takes responsibility for maintaining
+impeccable hygiene standards. After each meal preparation, AstroChef employs a sanitizing
+method that minimizes water usage while effectively cleaning the entire machine, ensuring a
+high level of cleanliness.
+Together, these five core technologies form the foundation of AstroChef and enable a complete
+independent autonomous food preparation, from chopping to cleaning. These innovations set new
+standards in culinary automation, efficiency, and sustainability, reducing both energy and water
+bills, minimizing food waste, and lowering carbon emissions. The result is a cost-effective and
+nutrient-rich food from GI Healthcare Kitchens.
+
+AstroChef Salamouny:
+Our latest version of AstroChef, the Salamouny, has undergone
+over a year of R&D and can now autonomously cook multiple
+cuisines. It is currently trained to cook five recipes and can
+learn a new recipe in just two hours. Our upcoming model, the
+AstroChef Addas, will feature an advanced AI Chef that can
+generate recipes from the internet and cook any machine
+compatible recipes without manual training process. With this
+AI, the machine can quickly train thousands of recipes, which
+will be carefully tasted and approved by our team. The
+machine's hardware design enables the autonomous cooking of
+all types of recipes traditionally prepared using a saucepan /
+pot, and wok.
+
+3
+
+Moreover, AstroChef's manufacturing cost is significantly lower compared to other Food Industry
+Robots that utilize Robotic Arms and exceed £150,000 in manufacturing expenses. AstroChef's
+innovative design eliminates the requirement for robotic arms while offering greater autonomy to
+cook different types of recipes than its industry counterparts. To manufacture this machine, we have
+cultivated partnerships with reliable suppliers. We acquire Actuators from USA, Electronic parts
+from China, and SS316 Stainless steel and Aluminium extrusion metal parts from India. The
+combined cost of components for manufacturing an AstroChef amounts to approximately £6,000.
+Parts
+
+Supplied from
+
+Price
+
+SS316 - Sheet Metals Parts
+
+Chennai, India
+
+£2000
+
+Bosch Aluminum Profiles
+
+Chennai, India
+
+£1500
+
+Stepper Motor, Drivers
+
+Shenzhen, China
+
+£500
+
+Other Electronics, 3D Printed & Laser cut Parts
+
+Bristol, UK
+
+£1000
+
+Actuators
+
+Florida, USA
+
+£1000
+
+Total
+
+£6000
+4
+
+NutriChef:
+NutriChef is GI Healthcare's innovative Kitchen Solution, a deployable robotic kitchen powered by
+AstroChef machines. NutriChef is built using repurposed shipping containers, transforming them
+into a fully functional culinary spaces that can be rapidly deployed to meet any high-demand areas
+and start serving nutritious food promptly.
+
+NutriChef Kitchen
+
+The compact size of AstroChef machines enables a single large 40ft shipping container kitchen to
+accommodate approximately, up to 20 machines, capable of serving an astounding 240 unique
+individual recipes per hour. With this mobility and scalability, GI Healthcare ensures that
+healthy and affordable food is accessible to anyone, anytime, and anywhere! In terms of cost, a 12ft
+repurposed shipping container with flooring, plumbing, and wiring facilities is available in the [11]
+UK market for approximately £5,000. For a little larger size kitchen spanning 20ft, the maximum
+cost of that container is currently around £12,000. This cost-effective approach to kitchen
+manufacturing allows for easy scalability and adaptability, as the interior design can accommodate
+the integration of AstroChef. Additionally, the construction of a new kitchen can be completed
+within days, enabling swift manufacturing and deployment in new cities.
+The below table offers a comprehensive comparison between NutriChef Kitchen and a Typical
+restaurant, highlighting NutriChef's superior advantages in cost reduction, flexibility, and
+adaptability.
+5
+
+Features
+
+NutriChef
+
+Typical restaurant
+
+Physical
+space
+
+Cost effective, Compact and scalable,
+deployable robotic kitchens are built using
+repurposed shipping containers
+
+Fixed physical location, typically with
+expensive indoor and outdoor seating areas
+
+Flexibility
+
+Deployable nature allows it to be quickly set
+up in high-demand areas or areas with
+limited culinary infrastructure. It can cater to
+various locations and events such as festivals
+or event natural disaster reliefs, providing
+access to healthy food even in remote or
+under served areas by using solar panels as
+power source.
+
+Confined to a single location, limiting its
+reach only to the local community it serves.
+Expanding to a new location requires
+substantial investments in infrastructure and
+time.
+
+Overhead
+costs
+
+Reduces overhead costs such as building
+maintenance, rent, labour charges and
+utilities. It offers a more affordable solution
+for providing nutritious meals without
+compromising on quality.
+
+High overhead costs due to physical
+location, staffing, and equipment expenses.
+
+Labour
+& Menu
+
+Utilization of AstroChef Machines eliminates
+the necessity for skilled labor, enabling the
+entire kitchen to be operated by a single staff
+member with a minimal training requirement.
+Additionally, these machines are capable of
+offering a wide range of recipes in various
+cuisines.
+
+On the other hand, a typical restaurant relies
+on skilled chefs to operate, which increases
+the operating cost and can be limiting in
+terms of menu options due to the chef's
+individual creativity and expertise.
+
+Menu Price
+
+By utilizing AstroChef machines, the cost of
+a high-quality and healthy food menu is
+significantly reduced by eliminating the need
+for a professional chef and reducing
+overhead costs such as electricity, water, and
+inventory stock bills.
+
+Reducing menu prices in a typical
+restaurant is highly challenging due to the
+significant portion of food costs attributed
+to professional chefs (40%-70%).
+Additionally, expenses such as gas bills
+further contribute to the overall recipe costs.
+
+Scalability
+
+NutriChef Kitchen can be easily scaled up by
+adding more machines in shipping container
+kitchens. This scalability allows for a
+significant increase in the number of recipes
+and meals served, making it suitable for
+large-scale operations or events. Moreover,
+the kitchen's design & business model
+facilitates easy expansion to open in new
+branches in different locations with minimal
+investment and operational requirements.
+
+Scaling a typical restaurant involves
+substantial investments in constructing new
+spaces to accommodate additional kitchen
+equipment, as well as purchasing new
+equipment and hiring more chefs to handle
+the expansion. This process makes it
+challenging to open in new locations and
+expand sales and brand recognition worldwide.
+
+NutriChef's versatile design, combined with
+integrated data analytics, allows it to swiftly
+adapt to evolving market trends and customer
+preferences. This makes it capable of
+Adaptability accommodating a diverse range of recipes
+and cuisines, providing a broad menu that
+caters to various dietary needs and
+preferences.
+
+Incorporating new recipes or replacing
+existing ones in a traditional restaurant
+would necessitate extensive chef training.
+Moreover, without access to data analytics
+tools, these restaurants would face
+challenges in promptly identifying market
+trends.
+
+6
+
+Productg
+Since the 2020 Pandemic, 62% of Brits [16] have shifted to healthier diets. However, the cost factor
+makes it challenging for customers to purchase healthy food. NutriChef Kitchen, offers two
+different menu options (NutriGo and FreshUp) at an affordable price range, catering to the growing
+demand for healthier food choices.
+
+NutriGO - (Starts at £1.60/full meal)
+The NutriGo menu offers customers an affordable option to enjoy freshly pre-prepared healthy
+food. These meals are batch-cooked on the same day using AstroChef machines and priced between
+£1.65 and £5.50 per meal. With five cuisine options available daily, customers can select their
+preferred meal. The NutriGo menu option offers a compelling proposition for UK university
+students, who typically spend an [12] average of £32 to £39 per week on food shopping. With
+NutriGo, students can enjoy fresh and healthy meals throughout the week, three times a day, all
+within the same budget. This affordable and convenient option ensures that students and other
+consumers can maintain a nutritious diet without exceeding their food expenses in the cost of living
+crisis.
+Items
+
+Quantity
+
+Price
+
+Total Price
+
+White Rice KG
+
+3
+
+£2.28
+
+£6.84
+
+Red Beans Cup
+
+4
+
+£0.80
+
+£3.20
+
+Large Onions Pcs
+
+3
+
+£0.12
+
+£0.36
+
+Spice per recipe level
+
+1
+
+£1.00
+
+£1.00
+
+Green leaf Garnish a pinch
+
+1
+
+£0.15
+
+£0.15
+
+Energy Cost 10 Mins
+operation 2KW
+
+10
+
+£0.01
+
+£0.11
+
+Packaging
+
+1
+
+£0.38
+
+£0.38
+
+Total Price for 20 serving
+
+£12.04
+
+Price per person
+
+£0.60
+
+This competitive pricing structure is made possible through the utilization of AstroChef, eliminating
+the need for skilled human chefs. The machine's impressive capabilities enable it to prepare each
+dish within 5 minutes, accommodating up to 20 servings simultaneously. Leveraging this efficiency,
+we can freshly batch-cook meals on a daily basis, ensuring minimal waste and maximum utilization.
+The detailed table provided offers a comprehensive breakdown of the expenses involved in
+preparing a 20-serving NutriGo meal, specifically focusing on a lunch option: Rice with a healthy
+Red bean curry, recommended by the UK Government as one of the essential 5-a-day foods. This
+nutritious meal is priced at £1.60 per serving, and after factoring in all the costs associated with its
+preparation, we achieve a gross profit of £1 per serving. This profit contributes to covering
+additional expenses and ultimately leads to a profitable net profit.
+7
+
+FreshUp - (Starts at £3.50/full meal)
+The FreshUp menu revolutionizes the dining experience by offering customers the ability to order
+personalized food cooked on the spot using AstroChef machines. FreshUp introduces a
+groundbreaking menu option that caters to customers' dietary needs and taste preferences with
+freshly cooked meals. With prices ranging from £3.50 to £8.50 per meal, this innovative offering
+ensures affordability without compromising on quality. Notably, the meals are prepared within a
+mere 5 minutes, providing a quick and convenient solution for those seeking nutritious and
+customized dining experiences. With the help of AstroChef machines, customers can now enjoy a
+diverse selection of healthy cuisine options and tailor their meals like never before, surpassing the
+possibilities offered by traditional restaurants.
+
+GI Healthcare is able to provide personalized healthy food at an unprecedented price point by
+utilizing autonomous technology and eliminating the need for highly skilled labour which
+traditionally accounts for 40% to 70% of a meal's expense. In NutriChef Kitchens, operations will
+be handled by a single trained staff member who will assist the machine in ingredient addition,
+hygiene maintenance, and serving hot food to customers. Convenient options are available for
+customers to either pick up their orders directly from the kitchen or have them delivered to their
+location through our partnerships with popular services like Just Eat, Uber Eats, and Deliveroo. The
+combination of our competitive pricing and the unparalleled convenience we offer sets our healthy
+food apart from the rest, making it a unique and compelling proposition in the market. At GI
+Healthcare, we are committed to redefining the way people access and enjoy nutritious meals,
+ensuring that healthy eating becomes a convenient, time-saving and affordable lifestyle choice for
+all.
+
+8
+
+Business Modelg
+GI Healthcare makes revenue by providing healthy food through two distinct business models:
+1. PAYG:
+With our Pay-As-You-Go (PAYG) model, customers have the flexibility to order their favourite
+meal and make an immediate payment. This option is ideal for first-time customers or those seeking
+a quick and convenient single meal. In addition, this model will be employed in our Dark kitchen
+setup, allowing customers to easily purchase and have their meals delivered through our partnered
+food delivery services.
+2. Subscription:
+At our Kitchen, we aim to make healthy food accessible, convenient, and affordable, encouraging
+customers to choose a wholesome diet on a daily basis. Through our monthly Subscription model,
+customers receive two credits per day. These credits can be utilized to select any food items for
+brunch, and dinner. Any unused credits will be carried forward to the next day. This model not only
+promotes repeat customers and loyalty but also helps us manage stock effectively and reduce food
+waste. Initially, we will implement a simple paper-based system during the pilot phase. However, as
+we progress, we will develop our own website and app, providing customers with a digital version
+of the subscription plan for ease of use.
+Number of Serving
+or meals / week
+
+Starting
+Weekly Price
+
+Freshly
+Prepared
+
+Improve
+Health
+
+NutriChef
+
+10
+
+Hello Fresh
+
+Saves Time
+
+£20.00
+
+Yes
+
+Yes
+
+Yes
+
+10
+
+£46.98
+
+Yes
+
+Some of them
+
+No
+
+Gusto
+
+10
+
+£45.99
+
+Yes
+
+Some of them
+
+No
+
+FieldDoctor
+
+10
+
+£57.00
+
+Frozen
+
+Yes
+
+Yes
+
+Our subscription plans provide customers with a range of options, starting at just £20 per week for
+10 credits, which translates to 10 meals. With this service, customers have the freedom to pre-order
+their desired meals in advance using the FreshUp menu option or make on-the-spot selections from
+the NutriGo Menu. Moreover, if certain meal options are priced higher than others, customers have
+the flexibility to spare an extra credit, enabling them to enjoy the specific meal they desire on any
+given day. This cost-effective subscription model, priced even lower than the [12] average student's
+weekly food expenses, not only provides customers with fresh and nutritious meals but also
+prioritizes convenience. In comparison to the existing ready-meal kit options available at higher
+price points, our subscription offers a more affordable and accessible solution. By providing this
+enticing combination, we establish a strong connection with our customers, encouraging them to
+remain loyal to our restaurant while simultaneously supporting their health and convenience needs.
+In the future, our expansion plan includes franchising our kitchen after 5 years. We will achieve this
+by licensing our technology, kitchen equipment, and brand offerings to franchisees. This strategic
+move will generate revenue for us through a 15% per-order fee, while the remaining profit will go
+to the franchisees.
+9
+
+Customersg
+GI Healthcare's target audience consists of individuals from diverse age groups with moderate
+incomes, who prioritize their health and seek convenient, fresh, and affordable healthy food
+options on a Daily Basis. Our research conducted among students, staff members at UWE Campus,
+and the elderly residents of Stoke Gifford Retirement Home in Bristol has yielded overwhelmingly
+positive feedback. In fact, 97% of the respondents expressed a strong desire for affordable healthy
+food that offers a wide selection of recipes from different cuisines. This feedback underscores the
+significant demand for our services, highlighting the need for accessible and customizable nutritious
+meals.
+
+Consumers:
+Students
+Disturbingly, a recent survey by the [13] NUS revealed that 92% of higher education students are
+experiencing mental health issues due to this crisis, with rising costs significantly impacting their
+well-being. Research conducted for the [14] Sutton Trust found that nearly a quarter of the
+interviewed UK students reported that financial pressures were hindering their ability to complete
+their degree, while 1 in 3 from working-class backgrounds stated they were reducing food intake to
+save money. Additionally, 14% of students dislike cooking [15] and rely on takeaways. Our survey
+conducted at UWE indicated that 1 in 20 British students are supported by parents who subscribe to
+meal-kit food delivery services like HelloFresh. However, due to time constraints, students often
+struggle to prepare & cook meals from meal kits and end up wasting the nutritious food ingredients
+from these meal kits. GI Healthcare recognizes this as an opportunity to serve students and has
+assessed the demand through their survey, with over 95.6% of UWE students expressing readiness
+to purchase healthy food if offered at an affordable price.
+
+Professionals
+In 2020, a substantial 62% of Britons [16] made a conscious decision to improve their diet by opting
+for healthier food choices, and 40.42% of the [17] UK population follows a healthy diet. Sales of
+healthy food have grown [18] by over 30% in the past five years, reaching over £3 Billion in 2021.
+Additionally, there is a [19] growing trend towards vegan food, with over 7.2 million vegans in the
+UK. However, meeting a healthy diet poses a significant financial burden [20] for the poorest half of
+households in the UK, requiring them to allocate nearly 30% of their disposable income. In contrast,
+the richest half of households only need to allocate an average of 12% to meet the same
+recommendations. During our survey at UWE, staff members identified a 97.3% demand for
+affordable healthy food among this demographic group.
+
+Elderly
+According to a poll by Care UK, [54] nearly one-third of older people in the UK are unable to use
+their kitchens safely. Furthermore, 93% of elderly individuals in the UK [6] who suffer from
+malnutrition live in care homes or retirement villages. During our research at Stoke Gifford
+Retirement Village, although they have caretakers, the meals that the elderly receive often do not
+cater to their personal nutritional requirements, with sandwiches being the most a caretaker can
+prepare. Additionally, ready meals for the elderly, such as the Meals-on-Wheels service, lack dietary
+10
+
+personalization. This has created a need for greater personalization and convenience in the elderly
+market. Our survey based research found highest need in this demographic, i.e. - 98.1%
+NutriChef offers freshly cooked, healthy food at an affordable price while allowing for greater
+dietary personalization. Through this technology, our aim is to support and cater to the diverse
+needs of all customer groups. We plan to make healthy food more accessible through the Dark
+kitchen model, where customers can order and customize their meals for delivery or pick-up.
+Furthermore, for students, working professionals, and the elderly, we intend to bring healthy food
+even closer with less carbon footprint by placing our NutriChef kitchens within private institutions
+sites such as universities, office buildings, food banks and retirement villages.
+
+Franchisee:
+In future, after operating successfully for 5-years, we plan to Franchise the NutriChef. Our
+customers (Franchisee) are Entrepreneurs who are looking to start a restaurant buying and looking
+for cheap and best solutions and/or people who want to bring healthy food solutions to their
+community and help the community get healthy food. In the UK alone 18% of 1.3 million Britons
+[21] who dream to start a business want to start a food business, globally this number is high. And
+we plan to expand by franchising to private institutions as well and their market data is explained
+below in the market section.
+
+Executiong
+After extensive research and development spanning over a year, GI Healthcare has successfully
+developed the latest version AstroChef Salamouny, a functional and food-safe machine capable of
+cooking delicious food. Working closely with the UWE Food & Hygiene department, we have
+ensured that our latest version meets the highest standards. Our next step is to establish our first
+NutriChef Pilot kitchen, in order to operate our kitchen, we first must obtain the necessary licenses
+and certifications. Here is an overview of the progress GI Healthcare has made:
+Licenses and Certifications Already Obtained:
+• Insurance: We have secured public and employer liability insurance, providing coverage of up to
+£10 million.
+• Electrical Testing: Our machines have undergone PAT testing for electrical safety, facilitated by
+our location at the Bristol Robotics Lab (BRL) Incubator. We will also obtain BRL's Technician
+approval for all other machines used in our kitchen. Additionally, our NutriChef kitchen will
+undergo an Electrical Installation Condition Report (EICR).
+Licenses and Certifications in Progress:
+• Food Business Registration: [22] Before opening our restaurant, we are in the process of
+completing the necessary registration with the South Gloucestershire Council. This entails a
+thorough assessment of our equipment, fire safety measures, risk register, and hygiene ratings.
+• Energy Labeling (EPREL): Our kitchen will receive energy labelling from certified agencies
+[24] to demonstrate our operational energy efficiency level.
+11
+
+• NSF Certificate: We are actively working towards obtaining an [23] NSF certificate for
+AstroChef, validating its ability to operate at high temperatures and effectively eliminate 99.999%
+of bacteria.
+Licenses and Certifications Not Required at This Stage:
+• Food Premise License: Initially, as we will exclusively prepare vegetarian food, a Food Premise
+License is [26] not necessary. Even in the later stages, it is not required since it pertains to
+businesses supplying food of animal origin to other businesses. As we directly sell to consumers,
+this license is not needed.
+• UKCA and CE Certificates: Since we are not engaged in [25] commercial sales of our machines,
+obtaining UKCA or CE certificates is not mandatory.
+• Alcohol and Music Licenses: Since we will not be serving alcoholic beverages or employing a
+music system in our kitchen, we are exempt from acquiring any [26] premise licenses or PPL PRS
+Music License in the UK.
+
+Roadmap:
+During the regulatory process period, GI Healthcare will conduct a comprehensive survey within
+the UWE Community to identify the most in-demand recipes and train our machines accordingly.
+Further, our roadmap is as follows,
+
+Pilot Kitchen at UWE
+
+Establish 3 NutriChef Kitchens
+
+Establish 10 NutriChef Kitchens
+
+Bootstrap:
+Upon successfully obtaining all the required regulatory licenses, we have set our sights on
+launching our Bootstrap kitchen operations in October 2023. This innovative kitchen will be housed
+within a 12ft shipping container, equipped with three latest AstroChef Salamouny machines. Our
+machines will undergo thorough training to master the preparation of up to 50 distinct recipes
+spanning various cuisines. To ensure seamless operations, one of our skilled team members will
+oversee the kitchen's day-to-day activities and assists the machines.
+12
+
+The primary objective of this pilot kitchen is to gather valuable feedback from our esteemed
+customers. By actively engaging with paying customers, we aim to gauge market demand and refine
+our operational processes based on their invaluable input. This iterative approach will enable us to
+continuously enhance the kitchen's performance and exceed customer expectations.
+Furthermore, the positive response and growing sales demand generated during this pilot phase will
+serve as compelling evidence to present to potential seed investors. By demonstrating the viability
+and success of our concept, we aim to secure the seed investment to establish 3 additional kitchens
+by 2024. It is our ambition to execute this Bootstrap program for a duration of six months and raise
+the seed investment by the first quarter of 2024.
+Year 2 & 3:
+Building upon the success of our initial seed investment, our focus shifts towards establishing three
+additional kitchens within Bristol City. Our strategic plan involves enhancing the existing shipping
+container kitchen at UWE Bristol and introducing a Dark kitchen that operates through an online
+food delivery platform, as well as offering economic pick-up services. This Dark kitchen will be
+strategically placed in the bustling Bristol city centre, catering to the busy community of working
+professionals and students residing in that area. The flexibility of our Dark kitchen also allows us to
+easily relocate it to high-demand locations and prominent events, including the renowned
+Glastonbury music festival, where we can serve large crowds and increase brand visibility.
+Moreover, based on the insights gained from our bootstrap project and the specific needs of the
+elderly, we have envisioned deploying our third NutriChef kitchen at Stoke Gifford Village
+Retirement Home. This dedicated kitchen will serve as a research kitchen facility, enabling us to
+gather feedback from paying elderly customers and enhance AstroChef's performance to
+specifically cater to the dietary preferences of the elderly. Our ultimate aim is to develop a robust
+version of AstroChef that is tailored to meet the unique needs of the elderly community. This
+research will play a vital role in improving and establishing specialized catering services for the
+elderly as part of our future expansion plans.
+Over the course of these two years, our primary objective is to generate substantial revenue and
+establish a profitable, self-sustaining business model by the end of Year 3. By leveraging the power
+of data analytics, we will analyze customer preferences, identify the most popular recipes in
+different locations, and continuously refine our offerings to enhance customer satisfaction.
+Additionally, these two years will provide us with invaluable operational experience, enabling us to
+effectively scale our operations and solidify our position in the market.
+Year 4 & 5:
+Looking ahead, our strategic vision encompasses raising Angel investment by Q1 2026. This
+infusion of capital will enable us to expand our footprint, establishing additional kitchens in various
+UK cities. With our sights set on global expansion, we plan to franchise our successful kitchen
+model after five years of operation, extending our reach to international markets.
+
+13
+
+By adhering to this comprehensive roadmap, we are confident in our ability to achieve sustainable
+growth, revolutionize the food industry, and make healthy and affordable food accessible to a wider
+audience.
+
+Bootstrap Executive strategy:
+
+The NutriChef Bootstrap Kitchen will undergo its pilot phase at the University of West England
+(UWE), Frenchay Campus, where our current office is based. We have strategically selected this
+site due to its diverse demographic, encompassing students, staff, and elderly individuals in one
+central location. The campus boasts a [27] student population of over 30,000, along with
+approximately 2,500 student tenants residing in on-campus accommodation. Moreover, the campus
+brings over 3,000 UWE staff members and entrepreneurs who are frequent on weekdays.
+Adjacent to the campus resides the Stoke Gifford Village Retirement Home, managed by the
+ExtraCare Organisation, housing more than 300 elderly residents [28]. This proximity provides us
+with an excellent opportunity to commence the pilot phase and serve customers across various age
+groups. Additionally, this location has been strategically chosen as it will serve as a base for three
+additional kitchens following the pilot. The pilot phase will provide us with valuable operational
+experience in catering to students, and elderly individuals, and even catering for UWE student
+union events. This experience will be crucial in preparing us for future kitchen placements.
+
+14
+
+Premise:
+Manufacturing:
+GI Healthcare has been offered a free place at the Bristol
+Robotics Lab Incubator since Sept 2022, this incubator provides
+us with a workshop area to manufacture and test our AstroChef
+Machines. This incubator also offers technician support for
+building and manufacturing robotic hardware. In the initial year,
+we will utilize this space for research and development purposes
+and for manufacturing a limited quantity of AstroChef machines
+for the pilot kitchen. Subsequently, we will relocate to our own
+office space in Future Space Bristol, where we have already
+received preliminary support. For the next five years, our plan is
+to source all the components from our trusted suppliers in
+different countries and perform the assembly of these
+components at our dedicated office space.
+Meeting Rooms:
+Our headquarters is located in the UWE Student
+Ventures building, where we have registered our
+business since May 2021. This space is provided
+to UWE graduates free of charge and includes a
+meeting room. It will serve as our temporary
+location for another year, after which we will
+have our dedicated meeting rooms in Future
+Space. Additionally, we currently benefit from
+pro bono support from Setsquared Incubator
+Bristol until June 2023. Our plan is to transition
+to a paid membership to avail of their assistance
+in scaling our business, which will also grant us
+access to additional meeting room spaces.
+Kitchen Space:
+For the bootstrap phase, we intend to position our shipping container kitchen in the UWE Car
+parking space near the business block where we have
+access to electricity, and is also strategically located at the
+heart of the campus with excellent visibility and
+NutriChef
+accessibility. Given its mobility feature, we also plan to
+relocate it within the campus as needed. We are currently
+in the process of securing this space from the UWE
+Director of Estates, who shares the vision of providing
+healthy food to his students and is willing to offer us a
+space, either free or for a fee, for the pilot phase. Once
+15
+
+the pilot is successful, and as we establish the three new kitchens, we will secure a designated space
+at UWE for one of the kitchens, where we will pay rent. In collaboration with ExtraCare Org, the
+retirement home kitchen will occupy a rental space if there is sufficient demand during the pilot.
+Lastly, we aim to obtain permission from the Bristol council to set up our Dark kitchen in Bristol
+City Centre. This mobile kitchen will also be utilized at festivals, subject to the approval of festival
+organizations such as Glastonbury Festival Ltd.
+
+Supply Chain:
+Initially, we will forge strategic partnerships with local greengrocers at the esteemed Bristol
+Farmers Market to source the finest and freshest ingredients for our kitchen. This collaborative
+approach empowers us to leverage the benefits of purchasing in large quantities, thereby securing
+more advantageous pricing. Moreover, our trusted greengrocer partners offer the convenience of
+direct delivery to our kitchen, streamlining the logistics involved. As we embark on expanding our
+operations to other cities, we will diligently uphold these invaluable relationships with local
+suppliers, ensuring an unwavering and dependable supply of top-quality, fresh produce. In addition,
+our AstroChef parts suppliers rely on trusted logistics delivery systems such as FedEx and DHL to
+safely and efficiently transport the valuable components to our UK office. We have successfully
+received all the necessary parts for our current AstroChef versions within a timeframe of two weeks.
+
+Marketingg
+Buddy Scheme:
+To generate word-of-mouth buzz and attract a growing customer base, we have implemented our
+innovative Buddy Scheme. Under this scheme, we offer complimentary meals to individuals who
+refer new customers to our kitchen. It serves as a rewarding incentive for our loyal patrons while
+expanding our reach through their recommendations.
+Loyalty & Discounts:
+In our commitment to fostering customer loyalty, we will introduce exclusive loyalty cards with
+enticing discounts. These cards incentivize repeat visits and encourage customers to choose our
+wholesome and affordable healthy food options.
+Social Media:
+To engage our target audience effectively, we will launch an Instagram account targeting individuals
+aged 18 to 35, along with a Facebook presence catering to those aged 35 and above. Through these
+platforms, we will share captivating articles and videos that promote the numerous benefits of
+healthy eating. As we expand globally, we have plans to collaborate with influential social media
+figures who champion the cause of healthy food.
+
+16
+
+Dark Kitchen Ads:
+For our Dark kitchens operating on online food delivery platforms, we will employ strategic
+advertising techniques. We will offer attractive discounts and promotions through the delivery
+platform apps, ensuring our kitchen stands out among the competition and captures the attention of
+potential customers.
+Colour Scheme:
+In line with our branding strategy, we have chosen a vibrant red colour as our signature hue. This
+deliberate selection aims to instantly captivate customers, as red holds psychological appeal and
+makes our brand visible and distinctive. Not only will our kitchen feature this eye-catching colour
+scheme, but our AstroChef machines will also be painted in red, further emphasizing our unique
+identity.
+Surveys:
+When launching in new locations, we will proactively gather valuable customer insights through
+surveys. By requesting customers to participate and share their preferences, we can customize our
+menu offerings to suit local tastes. As an expression of gratitude, we will reward survey participants
+with complimentary credits on their loyalty cards, allowing them to enjoy a free meal during their
+next visit.
+Attractive Menu:
+Our menu offers customers a comprehensive view of each meal's nutritional value, conveniently
+categorized into sections such as sports, energy, brain, heart, sleep, and more. This allows customers
+to not only select recipes based on their taste preferences but also consider the specific nutritional
+benefits.
+Chef Collaboration:
+As part of our future plans, we envision a strategic collaboration with renowned chefs such as
+Gordon Ramsay or Jamie Oliver to develop exclusive and exceptional recipes specifically tailored
+for our machines. This collaboration will serve as a powerful marketing tool to showcase the
+outstanding taste and quality that our machines can deliver. By partnering with these esteemed
+chefs, we aim to leverage their expertise and reputation to further promote our brand and attract a
+wider audience. Through this exciting collaboration, we aspire to elevate the culinary experience for
+our customers and solidify our position as a leader in the industry.
+
+17
+
+Marketg
+Dark Kitchen Market:
+Currently, a significant 70% of the global population [29] prefers the convenience of online food
+delivery platforms, and this number is projected to reach 2.6 billion users worldwide by 2026. In the
+UK alone, there are already [30] over 750 Dark Kitchens, with a market size of £4.9 billion, and this
+industry is expected to grow even faster. Given the demand for healthy and affordable food options
+in the UK, we anticipate achieving over £1 million in Gross Revenue by the end of Year 3. Globally,
+the Dark kitchen market [31] is one of the fastest-growing sectors, predicted to reach a value of $373
+billion by 2030, with an impressive compound annual growth rate (CAGR) of 22%. Countries such
+as the US, India, China, the UK, and UAE are among the top markets in this industry. After
+establishing our successful presence in the UK, our plan is to expand globally, starting with the US
+and UAE, where there is a high demand for healthy and affordable food options.
+
+US Market:
+According to data shared by the researcher [32] Eddie Yoon in Harvard Business Review, nearly
+90% of Americans do not enjoy cooking. While 93% of Americans express a desire to [33] eat
+healthily, only 10% say they always eat healthy due to affordability factors. Currently, 18 million
+people in the US [34] lack access to affordable healthy food. This demand for affordable and
+nutritious meals presents us with an advantageous opportunity to scale our operations in this
+country.
+UAE Market:
+A recent study conducted by a leading consulting firm [35] revealed that 55% of people in the UAE
+who order food online prioritize healthy options. The current market size for healthy food delivery
+in the UAE exceeds $1 billion. The UAE government has also been actively promoting healthy
+eating through its [36] SEHHI Program. These factors indicate a significant demand for launching
+our kitchen in the UAE. Furthermore, 81% of the [37] UAE population desires healthy food options
+from vending machines, which presents us with a new market opportunity.
+
+Private Institutional Kitchen:
+The global catering market currently has a [39] value of $154.4 billion, with the UK alone
+accounting for $4.4 billion [38]. We intend to enter the private institutional catering market through
+a franchising business model, serving customers in elderly communities, universities, schools,
+offices, and more.
+Universities:
+In Year 4, we plan to expand into private institutions by establishing NutriChef kitchens within
+universities. Currently, there are 160 universities [40] in the UK, with 2.8 million students studying
+[41] and living there. Additionally, as we scale up in the US and UAE, the [42] US has 4,000
+18
+
+universities [43] with a staggering number of 19.4 million students. Similarly, in the UAE, [44] there
+are 100 universities with 140,000 students residing and studying there.
+Elderly:
+The global elderly food and nutrition market [45] is projected to reach $30.64 billion by 2030. In the
+UK alone, the number of people over 60 years old [46] is expected to reach 15.1 million by 2025,
+accounting for 23% of the total UK population. Currently, there are 17 retirement villages
+throughout the UK, [47] housing 70,000 residents, and [48] 17,100 care homes. By conducting
+thorough R&D in Years 2 & 3 from the third kitchen at Stoke Gifford Retirement Home, our aim is
+to develop a robust version of our AstroChef technology specifically tailored to meet the dietary
+needs of the elderly and capture this growing market segment. Additionally, after successfully
+expanding in the UK elderly market, our next plan is to scale our operations in the US. The US is
+home to [49] the world's largest retirement community villages and [50] has 56 million elderly’s,
+accounting for 16.9% of the total population. A significant portion of senior citizens resides in
+California, a state known for its large technology companies, making it an ideal starting point for
+our expansion.
+Currently, the Dark Kitchen market in the EU is slow, and we will further assess in the future
+whether to enter this market or not. However, the market for private institutional kitchens,
+especially for the elderly, looks promising. The [51] elderly population is projected to reach 48.4
+Million by 2025. We will continue to assess technology adaptation and cultural factors before
+launching into the EU market.
+Furthermore, we have plans to scale our Dark Kitchen operations in India and China, two countries
+with rapidly growing markets. In India, the Dark Kitchen market, also known as the cloud kitchen
+market, [52] is projected to reach a size of 1.9 billion by 2026. Similarly, China is expected [53] to
+have a market size of $24.31 billion by the same year. These markets offer significant opportunities
+for expansion. However, we recognize the importance of carefully assessing the cultural and
+geopolitical factors before entering these markets. Our strategy involves launching our kitchens in
+these countries through a franchise model, allowing us to navigate local nuances effectively and
+ensure a successful entry into these promising markets. Based on our initial research, we have
+determined that the Private Institutional Kitchen model may not be suitable for implementation in
+India. Factors such as limited facilities and inexpensive labour, as well as the traditional eating
+culture prevalent in the country, make it less conducive for this particular concept. On the other
+hand, China presents a promising opportunity for us to establish our presence in both the Dark
+Kitchen and Private Institutional Kitchen markets. The country's advanced infrastructure facilities
+and high level of technological adoption, particularly in the realm of robotics, make it an ideal
+environment for our operations. China's progressive approach to restaurant automation aligns well
+with our goals, further supporting our decision to focus on this market for future expansion.
+Lastly, thanks to the flexibility of our kitchen, which allows it to be deployed and operated in any
+location, we can collaborate with the UN and other government sectors to provide assistance in
+disaster relief and other rapid response situations.
+19
+
+Competitiong
+Price & Health
+In the UK, there is a wide selection of healthy food restaurants available, including Ethos, Kitch,
+Natural Chinese, Dough, the Gardener Cottage, and The Good Life Eatery. However, their higher
+price points (above ££) make it financially challenging to afford their meals on a daily basis.
+Another option is ready meals delivered for a week from companies like Field Doctor, All Plants,
+and Fuel Hub. While convenient, these meals come at an average price range of £8 - £9 per serving.
+Alternatively, there are more affordable options like veg boxes delivered to homes from companies
+like Hello Fresh and Gusto, but these require additional effort from users to cook the food, lacking
+the desired convenience. Fast-food chains like McDonald's, Greggs, and KFC offer affordable
+options, but they prioritize convenience over health. The table provided below offers a
+comprehensive comparison of NutriChef with other food companies, considering factors such as
+affordability, the freshness of food, personalization of dietary and taste preferences, healthiness
+options, and convenience. The price listed for each brand represents the average cost per serving/
+meal, determined through a thorough analysis of their menus and recipes. Please keep in mind that
+prices may vary depending on the location & time.
+
+Competitiors
+
+Avg price per
+serving
+(apx.600Kcal)
+
+NutriChef
+
+£3.50
+
+Healthy Food Restaurant
+
+£30.00
+
+Hello Fresh
+
+£5.50
+
+Gusto
+
+£5.60
+
+Field doctor
+
+£8.50
+
+All Plants
+
+£9.00
+
+Fuel Hub
+
+£7.50
+
+Meals of Wheels
+
+£3.00
+
+McDonalds
+
+£5.39
+
+Greggs
+
+£3.00
+
+KFC
+
+£6.49
+
+A ordability
+
+Freshness
+
+Personalized
+& Healthy
+
+Convinience
+
+Rating Scale Explanation: Green: Excellent (5-star), Yellow: Average (3-star), Red: Poor (1-star)
+
+ff
+
+20
+
+Robotics:
+In the food automation industry, several companies compete, but their technology is often expensive
+and lacks versatility. For example, Miso's Flippy Robot and Karakuri robots use robotic arms for
+cooking, costing over £250k, and can only perform limited tasks like frying chips or reheating precooked food. Other companies such as Aitme, Kitchen Robotics, and RoboChef have developed
+large machines that are difficult to integrate into existing kitchens and sell through a RAAS (Robotas-a-Service) business model, which still doesn’t allow restaurant owners to reduce the price of a
+meal.
+
+21
+
+NutriChef's USP
+Health & Affordability:
+In contrast to the competition, NutriChef offers an unparalleled value proposition. It combines
+affordability, convenience, and healthy food options, and offers a highly competitive advantage,
+setting it apart from expensive restaurants and premium meal delivery services. NutriChef provides
+affordable meals without compromising on quality or nutrition, making it suitable for individuals
+even with modest incomes. The autonomous cooking technology employed by NutriChef eliminates
+the need for highly skilled labour, reducing overall costs while maintaining the nutritional value and
+taste of the dishes. This ensures that fresh and healthy meals are accessible and convenient for
+customers to buy on a Daily Basis.
+Technology advantage:
+The design and technology of NutriChef's kitchen allow for flexibility, mobility, and easy
+deployment, making it more cost-effective compared to other automation competitors. For example,
+even the smallest NutriChef kitchen, housed in a 12ft shipping container and equipped with three
+AstroChef machines, costs less than £30k and can efficiently process multiple orders per hour,
+accommodating various cuisines and recipes.
+
+Service:
+Moreover, AstroChef machines can be installed or removed in minutes without disrupting kitchen
+operations, unlike competitors such as Spyce Robotics and Kitchen Robotics, which may require
+days for equipment replacement or servicing which disrupts sales.
+
+22
+
+Sustainability:
+AstroChef's groundbreaking space technology development enables a significant reduction in food
+waste and resource consumption, exemplifying its unwavering commitment to sustainability and
+responsible practices.
+In summary, NutriChef's unique combination of affordability, convenience, healthy food options,
+and advanced autonomous cooking technology sets it apart from the competition. Its ability to
+easily scale globally is facilitated by its cost-effective and versatile design, making it accessible for
+individuals seeking nutritious meals on a daily basis.
+
+Intellectual Propertyg
+Trademark:
+In the first year, GI Healthcare Industries Limited will secure the trademarks for NutriChef and
+AstroChef as brand names, safeguarding them against any unauthorized use or imitation.
+Design Patents:
+By the second year, we will obtain design patents to protect the unique designs of AstroChef
+machines and the technological interiors of NutriChef kitchens from replication or infringement.
+Technology Patents:
+During the Bootstrap project, AstroChef's interior technologies will remain undisclosed to the
+public, and accessible only within our private operations. Hence, patents are not required at this
+early stage and everything is currently covered with NDA for outside visitors. However, starting in
+the second year, we will begin patenting AstroChef's technologies to explore new markets by
+licensing the technology for applications in the food industry, healthcare, and more. This strategic
+move will generate additional revenue and also pave the way for franchising NutriChef and
+expanding globally.
+Currently, GI Healthcare is receiving support from Innovate UKRI Edge, and we have been
+awarded to receive a grant of £3000 funding from the UK IPO office for the initial IP Audit
+process. This support will further enable us to secure an additional £5000 in funding from the IPO
+office to patent our first technology in the UK. These intellectual property protections will not only
+safeguard our technology and designs but also enhance the company's valuation, making it more
+appealing to potential investors.
+
+23
+
+Financial Forecastg
+GI Healthcare operates on a financial year that runs from May to April. The following financial
+forecast covers the next five years, providing a detailed overview of the project's viability and
+scalability.
+
+Sales Forecast:
+
+The sales forecast considers both the NutriGo menu option and the FreshUp menu option,
+projecting the number of sales per day in a given month. Sales are expected to commence in
+October 2023, with the start of our Bootstrap project. The forecast demonstrates a monthly increase
+in sales as we promote our kitchen and brand through marketing efforts. Based on the current
+performance of the UWE One Zone Kitchen, which processes over 700 orders per day, we have
+extrapolated our sales projections. Additionally, it is worth noting that in order for a restaurant to
+sustain its operations, it typically needs to serve at least 30 orders per hour. Our Kitchen, equipped
+with three AstroChef machines, has the capacity to create up to 36 orders per hour. This highlights
+the efficiency and capability of our kitchen setup to meet and exceed the demands of our customers.
+Furthermore, an average restaurant located in a [55] high-demand area typically handles around 300
+daily orders, considering both online and offline sales channels. These figures provide valuable
+insights into our sales potential and market demand as we continue to grow and expand our
+operations. In Year 2, as we establish three new kitchens (one each in Q1, Q2, and Q3), we
+anticipate a boost in sales following each launch. We plan to continue operating this kitchen until
+the end of Year 3 to gain operational experience and gather valuable data analytics. These insights
+are crucial as we scale up in Year 4. From Year 4 onwards, we plan to launch two new kitchens
+every quarter, resulting in a further increase in sales. The forecast accounts for the impact of
+holidays and other events, providing a more realistic projection. Additionally, we anticipate that the
+implementation of a subscription business model will contribute to an increase and retainment in
+24
+
+sales. It is important to note that the sales increase percentage will be over 100% in Year 2, as the
+first year only includes a nine-month sales period with a single bootstrap kitchen.
+
+Income Statement:
+
+Revenue:
+Based on the monthly sales numbers, the revenue for the NutriGo menu option is calculated by
+multiplying the total number of NutriGo sales per year by the average order price (£3.5). Similarly,
+the revenue for the FreshUp menu option is determined by multiplying the total number of FreshUp
+sales per year by the average price (£5.5). The average price is assumed to increase each year in line
+with a projected UK inflation rate of 10.4%. The total Gross Revenue is obtained by summing the
+revenue from both NutriGo and the FreshUp menu option. The Net Revenue is then calculated by
+deducting Discounts given for loyalty cards from the Gross Revenue. With the sales increase over
+the years, we project a Net Revenue of over £1 Million by the end of year 3.
+
+25
+
+COGS Assumption:
+The Cost of Goods Sold (COGS) is determined as a percentage of revenue, and the following
+assumptions are made for each year:
+1. Cost of Raw Materials: In a typical restaurant, the cost of raw materials per meal ranges from
+30% to 40%. However, by directly sourcing raw materials from the farmer's market, we have
+assumed it to be 35% per meal. We project this percentage to decrease to 32% as we improve our
+sales efficiency and establish strong relationships with farmers.
+2. Packaging Cost: The cost associated with packaging is accounted for under fulfilment. It is
+estimated to be 3% in the first year and increases annually as we grow. This includes server costs,
+packaging cost increments, and other related expenses.
+3. Bank Transaction Fees: When using services like Stripe, the bank transaction fee is 2.9% for
+sales under 1 million per year and 3.1% for sales exceeding 1 million orders.
+4. Energy Cost: Energy cost is calculated as 2% of a meal, considering its efficiency. This
+percentage decreases over time as we enhance the efficiency of our heating technology.
+5. Rent: In the first year, with the bootstrap kitchen, rent is estimated to be approximately £1500 per
+month. For the subsequent years, we estimate it to be £2000 per kitchen per month. This estimation
+is adjusted based on the revenue percentage indicated in the rent assumption row.
+
+26
+
+Operating Expense:
+Operating expenses, similar to the cost of goods sold (COGS), are determined as a percentage of
+revenue. The marketing budget and research and development (R&D) costs are allocated on an
+annual basis, based on this revenue percentage. As our business expands, our marketing budget in
+Year 2 and Year 3 is primarily directed towards the second Cloud Kitchen. This is because our
+kitchen is already well-established and recognized on the UWE campus and in the Elderly Home,
+requiring less marketing expenditure for those locations. Therefore, we have allocated less than
+£20,000 for Marketing in the second year. It is worth noting that in Year 3, the marketing budget is
+lower than in Year 2. This is attributed to the fact that, after extensive marketing efforts in Year 2,
+we have achieved a satisfactory level of repeat customers, thus reducing the need for further
+marketing. Additionally, we allocate 5% of revenue for each year towards selling, general, and
+administrative (SGA) expenses, as well as other miscellaneous costs.
+Tax:
+The Corporation Tax in the UK for a Limited Company is 25%. The R&D Tax return benefit is
+13%, but we estimate that 3% of it will be charged by the accountant. Consequently, we anticipate a
+10% return on R&D spending each year.
+Staff Strategy:
+
+At the outset of the pilot project, our core team consisting of the CEO, CTO, and Senior Robotics
+Engineer will be the primary workforce. To ensure the startup's success, the team members will
+draw minimal salaries. During this bootstrap phase, each member will take turns operating the
+kitchen, with the CEO overseeing day-to-day activities and supply chain management. Currently,
+we have the valuable support of UWE Law Clinic, which provides us with accounting assistance.
+We have been fortunate to benefit from this free support, and we plan to continue utilizing their
+services until the end of this year. However, as we progress into year 2, our intention is to hire a
+27
+
+professional accountant from a reputable accountancy firm. This step will ensure that we have
+dedicated expertise in managing our finances, allowing us to make informed decisions and maintain
+financial stability as we continue to grow our business.
+In the second year, as we plan to scale our operations, we will hire additional employees to focus on
+research and development (R&D) and dedicated kitchen operations. A Service Engineer will also be
+brought on board to perform monthly maintenance and servicing of the AstroChef machines. To
+maintain smooth operations, a Chief Operating Officer (COO) will join the core team to manage the
+supply chain and team activities. Additionally, we will explore opportunities to collaborate with
+universities and leverage their student internship schemes. This will not only bring new talent to the
+team but also help reduce the overhead costs associated with hiring new staff. The staffing table
+provided above displays the total number of employees and the corresponding staffing expenses,
+which amount to £325,686. Additionally, an Employee National Insurance contribution of £35,238
+is included in the overall staffing costs.
+As we progress into the fourth year and expand further, our staffing will include a dedicated service
+engineer team, kitchen operators, operational managers, and an expanded R&D team. This structure
+will enable us to effectively manage operations, enhance customer service, and drive innovation. By
+2027, we anticipate the creation of 48 new jobs within our organization. The wages of these
+employees have been carefully calculated and incorporated into the Cost of Goods Sold (COGS)
+section of the Income Statement.
+
+Investments:
+
+GI Healthcare secured its initial investment of £70,000 in Year One for the Bootstrap project
+through funding from the Founder's Family in exchange for a 5% equity stake. Upon the successful
+completion of the pilot and data collection phase, our objective is to secure an additional £350,000
+in private equity funding, with the intention of finalizing the deal by the fourth quarter of Year One.
+This investment will be utilized to construct and establish three kitchens during Year Two. Looking
+ahead to Year Three, we have set our sights on raising £1.5 million through a combination of 80%
+matched funding from Innovate UK Smart Grants or other IUK Grants, which will be dedicated to
+research and development (R&D) initiatives aimed at further enhancing our kitchen technology.
+This funding will pave the way for our expansion plans in Year Four. Beyond Year 5, our strategic
+goal is to secure Series funding to facilitate the franchising and expansion of our business.
+
+28
+
+IP:
+Furthermore, in Year 1, we have currently received £3000 from UK Gov IP Office for conducting
+an IP Audit and currently in the process of completing before 14/07/2023, later that we will receive
+an IP Access Grant of £5,000 as from the IPO Office to cover the costs associated with filing our
+first patent. Subsequent intellectual property (IP) expenses will be accounted for within our R&D
+expenditure. Once we file a Patent successfully, we aim to receive the Corporation Tax Relief on
+profits through the Patent Box Scheme.
+Owner’s Equity:
+Over the past two years, the founder has made a total investment of £6,300 towards the R&D
+process. These investments are reflected in the Historical year section of the balance sheet,
+highlighting the founder's commitment to the company's growth.
+Fixed Assets:
+
+The majority of our fixed assets consist of shipping containers, AstroChef cooking machines, and
+kitchen equipment. Additionally, each year GI Healthcare plans to allocate funds for purchasing
+R&D equipment, including computers, 3D printers, laser cutters, machining tools, servers, and
+more. As our revenue expands after year 5, we have strategic plans to acquire our own dedicated
+R&D and manufacturing facility in the UK.
+Debt:
+We have a prudent approach to debt management and do not anticipate taking any loans for the next
+three years. This decision aligns with our goal to minimize the need for repayment and maintain a
+healthy financial position.
+EBITDA:
+A strong EBITDA margin of 10% and above is considered favourable for a restaurant business.
+Initially, our company's EBITDA margin is negative in the first two years due to operational losses
+as we establish and grow our business. However, after reaching the breakeven point around Year 3,
+our EBITDA margin begins to improve, reflecting our progress towards profitability.
+29
+
+Breakeven Point:
+Based on our financial projections, we anticipate reaching the breakeven point for our project
+between the second and third years. The breakeven point is the stage at which our revenue equals
+our expenses, indicating that we have covered all our costs and are starting to generate a profit. This
+timeline indicates that we have carefully analyzed our financial forecasts and have set realistic
+targets to ensure the project's financial sustainability.
+
+30
+
+Cash Balance:
+Through strategic investments at the opportune moments and consistent revenue generation, we
+effectively manage and maintain a sustainable cash balance each year. This approach ensures that
+our company remains financially stable and capable of meeting its financial obligations and
+pursuing growth opportunities in the coming years.
+
+31
+
+Exit Strategyg
+GI Healthcare has conducted a thorough assessment of its exit strategy alternatives, prioritizing the
+optimal outcome for the company and its stakeholders within a timeframe of 8-10 years. Over the
+course of the subsequent 15 years, our objective is to secure a substantial 25% share of the Global
+Catering Market, projecting an estimated annual Net Income of £2 Billion.
+Primary Option:
+The primary exit strategy is to take the company public through an initial public offering (IPO).
+This approach would allow GI Healthcare to list its shares on a stock exchange and provide an
+opportunity for investors to buy and sell shares in the company. Going public would not only
+provide liquidity for existing shareholders but also enable the company to raise additional capital
+for further growth and expansion. It would also enhance the company's visibility, credibility, and
+access to a broader investor base.
+Secondary Option:
+In the event that going public is not the preferred route by future investors & stakeholders or market
+conditions are not favourable, GI Healthcare’s secondary option is being acquired by larger
+companies in the industry. Being acquired by a well-established player can provide significant
+advantages in terms of financial resources, distribution networks, and market reach. Potential
+companies that might be interested in acquiring GI Healthcare include major players in the food
+automation and healthcare sectors. For example, companies like Amazon, Nestlé, and Sodexo could
+be potential suitors due to their focus on technology, food services, and commitment to innovation.
+These companies may see the value in acquiring GI Healthcare to strengthen their position in the
+emerging market of autonomous cooking technology and healthy food services.
+1. An acquisition by Amazon could bring synergies between GI Healthcare's technology and
+Amazon's expertise in e-commerce and delivery services, allowing for further integration of
+autonomous cooking in their offerings.
+2. Compass Catering, a leader in catering and facility management, could benefit from GI
+Healthcare's solutions in providing nutritious meals to its diverse range of clients, such as
+universities, hospitals, and corporate offices.
+3. Sodexo, another leader in catering and facility management, could benefit from GI Healthcare's
+solutions in providing nutritious meals to its diverse range of clients including Defence, and
+other private institutions such as universities, hospitals, and corporate offices.
+Ultimately, the decision to go public or pursue an acquisition will depend on various factors,
+including market conditions, the company's financial performance, and the goals of the
+stakeholders. GI Healthcare will carefully evaluate these options to ensure a successful and
+beneficial exit strategy that maximizes value for its shareholders and supports the continued growth
+and impact of the company.
+
+32
+
+Risk Planningg
+Like any other business, GI Healthcare faces various potential risks. The following table highlights
+the top five risks along with their respective mitigation strategies:
+Risk
+
+Technology
+Dependacy
+
+E ects
+
+Mitigation
+
+The high level of reliance on
+technology in our kitchen poses a risk
+of potential failures due to machine
+repairs, system downtime, or cyber
+breaches, which could result in
+disruptions or even closure.
+
+To address this risk, we have implemented
+AstroChef Technology, which is designed
+for easy installation and removal to
+minimize sales disruptions during machine
+repairs or servicing. Additionally, in Year 2,
+we will be hiring a team of skilled software
+engineers who will be responsible for the
+ongoing maintenance and security of our
+servers, ensuring the continuity and
+protection of our software systems.
+1. To mitigate the risk of funding delays,
+we have set a target to secure investments
+well in advance of the start date for each
+project. By proactively raising funds, we
+aim to ensure that we have the necessary
+resources available when needed.
+
+There is a risk of potential delays in
+executing our roadmap, which may be
+caused by
+Execution Delays
+
+1. funding delays,
+2. Technology readiness issues, and or
+manufacturer supply chain delays.
+3. Regulatory approval delays
+
+2. To address potential technology and
+supply chain delays, we have established
+reliable manufacturing sources in countries
+such as the US, China, and India. These
+manufacturers are known for their
+efficiency and quality. Moreover, we have
+partnered with trusted and expedient
+delivery services such as FedEx and DHL
+to ensure timely deliveries of our
+equipment and components.
+3. In terms of regulatory delays, we are
+committed to thorough preparation and
+timely submission of all required
+assessments and documentation. By
+proactively engaging with regulatory
+authorities and adhering to their guidelines,
+we aim to obtain necessary approvals as
+swiftly as possible, minimizing any
+potential delays in our execution timeline.
+
+ff
+
+33
+
+Risk
+
+Customer
+Acceptance
+
+E ects
+
+Mitigation
+
+we are committed to raising awareness
+among customers about the benefits and
+safety features of our robotic technology.
+We will emphasize that our technology
+ensures superior food quality, surpassing
+that of human chefs. By educating
+There is a potential risk of encountering customers about the advantages and
+resistance or reluctance from customers reliability of our automated cooking
+towards robotics technology.
+process, we aim to overcome any initial
+hesitations and build trust in our brand.
+Additionally, we will actively seek
+feedback from customers and continuously
+strive to improve their dining experience,
+further solidifying their acceptance of our
+robotics technology.
+To mitigate this risk, we have implemented
+several measures.
+1. we prioritize the protection of our
+intellectual property by strictly enforcing
+non-disclosure agreements (NDAs) and
+utilizing contracts to prevent our staff
+members from copying or starting a
+competing business with our proprietary
+ideas and innovations.
+
+IP
+
+2. Furthermore, we are proactively pursuing
+patent protection to safeguard our IP rights
+and prevent unauthorized use or replication.
+There is a potential risk of experiencing By obtaining patents, we establish a strong
+IP infringement, either by someone
+legal foundation to defend against any
+copying our technology or facing legal infringement claims and deter potential
+action for allegedly copying someone
+infringers from exploiting our technology.
+else's technology.
+3. In addition, we adhere to ethical
+practices and strictly avoid any
+infringement of other companies' IP rights.
+We conduct thorough research and due
+diligence to ensure that our technology and
+designs are original and do not infringe
+upon existing patents or copyrights.
+By maintaining a strong commitment to IP
+protection, adhering to legal obligations,
+and fostering a culture of innovation and
+integrity, we aim to mitigate the risk of IP
+disruptions and safeguard the uniqueness
+and value of our technology.
+
+ff
+
+34
+
+Risk
+
+Adverse Events
+
+E ects
+
+Mitigation
+
+We mitigate the risk of adverse events by
+conducting thorough testing of our
+machines and recipes at our R&D facilities
+before launching our kitchens. Our
+AstroChef machines are equipped with selfcleaning mechanisms, minimizing the
+possibility of contamination. We also
+implement robust quality assurance
+There is a potential risk of encountering
+protocols and conduct regular maintenance
+adverse events, including food
+to ensure equipment reliability. These
+contamination, equipment
+measures prioritize product quality,
+malfunctions, or system errors. These
+customer safety, and protect the company's
+events can lead to product recalls, harm
+reputation.
+to customers, legal liabilities, or
+damage to the company's reputation.
+Furthermore, as we cater to the elderly
+community, we recognize the importance of
+addressing specific dietary requirements.
+To ensure their well-being, we conduct
+extensive testing to validate the nutritional
+values of our meals, allowing us to provide
+them with high quality healthy and tailored
+food options.
+
+SWOT Analysis:
+
+ff
+
+35
+
+Strengths:
+1. Innovative Technology: GI Healthcare possesses cutting-edge autonomous cooking technology,
+exemplified by the AstroChef machine. This full-fledged autonomy technology sets the company
+apart from its competitors and offers a unique selling point.
+2. Cost-Effective: The NutriChef kitchen model is designed to be affordable, making healthy food
+accessible on a daily basis even to individuals with modest incomes. The focus on costeffectiveness allows for wider market reach and customer affordability.
+3. Sustainability: GI Healthcare's commitment to sustainability is a strength. The AstroChef
+technology reduces food waste and minimizes resource consumption such as energy & water,
+showcasing the company's dedication to responsible practices.
+4. Global Scalability: The design of NutriChef enables easy and cost-effective expansion of kitchen
+operations worldwide. With the incorporation of AstroChef technology, NutriChef can cater to
+diverse cuisines, facilitating seamless scalability in new countries by adapting to local food tastes
+and preferences. This flexibility allows for rapid market entry and the ability to meet the demands
+of a global customer base.
+Weaknesses:
+1. Limited Market Presence: As a relatively new player in the market, GI Healthcare may face
+challenges in establishing a strong market presence and brand recognition. Building awareness and
+trust among customers will be crucial.
+2. Limited Cultural Adaptation: GI Healthcare may face challenges in certain locations where
+customers are hesitant to easily adapt to the utilization of robotic technology. This lack of trust in
+automation can hinder the acceptance and adoption of NutriChef's innovative solutions in these
+specific markets. Efforts will need to be focused on educating and reassuring customers about the
+reliability, safety, and benefits of the AstroChef technology to overcome this resistance and
+establish trust in the automated kitchen concept.
+3. Patent Protection: While GI Healthcare has plans for patenting its technology, there may be a
+vulnerability to potential intellectual property infringement if adequate protection is not in place.
+Opportunities:
+1. Growing Health Consciousness: The increasing demand for healthy food options presents a
+significant opportunity for GI Healthcare. As more individuals prioritize their health, there is a
+potential for market growth and an increased customer base.
+2. Global Expansion: The projected growth of the Dark kitchen market and the potential for
+franchising offer opportunities for GI Healthcare to expand its operations beyond the UK. This
+expansion can tap into a wider customer base and generate additional revenue streams
+36
+
+3. Collaboration and Partnerships: Forming strategic partnerships with food banks, institutions, and
+government sectors can enable GI Healthcare to access funding, support community initiatives, and
+expand its reach to underserved populations.
+4. Government Collaboration: GI Healthcare has the opportunity to expand its reach by
+collaborating with defence organizations and entities like the United Nations. This collaboration can
+enable the deployment of NutriChef kitchens to benefit military personnel and individuals affected
+by disaster relief situations. The fast deployable feature of the NutriChef kitchen can provide muchneeded support in providing timely and nutritious meals in challenging environments. By partnering
+with these organizations, GI Healthcare can not only make a positive impact on the well-being of
+individuals but also establish its brand as a reliable and valuable solution in emergency and military
+settings.
+Threats:
+1. Intense Competition: The healthy food industry is highly competitive, with both established
+players and emerging startups vying for market share. GI Healthcare may face intense competition
+from other companies offering similar healthy food options.
+2. Changing Consumer Preferences: Consumer preferences and trends can change rapidly, and GI
+Healthcare needs to stay attuned to these changes to remain relevant and competitive. Failure to
+adapt to evolving consumer demands may result in a loss of market share.
+3. Regulatory Challenges: Compliance with food safety regulations, health codes, and other
+industry-specific regulations can pose challenges for GI Healthcare, particularly when expanding
+into new markets or dealing with international regulations.
+GI Healthcare will leverage its strengths, address weaknesses, capitalize on opportunities, and
+mitigate threats through strategic planning, continuous innovation, effective marketing strategies,
+and strong execution.
+
+Plan B Options:
+Plan B options provide alternative approaches to address potential challenges and ensure the smooth
+progress of the project. Continuous evaluation, flexibility, and adaptability will guide our decisionmaking to achieve the best outcomes.
+1. Unsuccessful Pilot: Despite thorough research and pre-pilot preparations, if the pilot project does
+not yield desired results among specific target groups such as students, professionals, or the elderly,
+we will carefully analyze the data to identify the most successful market segment. As a plan B, we
+will shift our focus to the market group that shows the most potential. In the event that the pilot fails
+across all segments, we will explore alternative markets, such as food banks or UN disaster relief
+situations, where the demand for our machines can have a significant and beneficial impact and still
+be profitable.
+2. Regulatory Approval for Animal-Origin Products: While our initial plan is to start with
+vegetarian recipes, potential delays in obtaining regulatory approval due to the inclusion of animal37
+
+origin products, such as milk, will be addressed with a plan B. As an alternative strategy, we will
+shift our focus to vegan options, eliminating the need for animal-origin ingredients. This adjustment
+will facilitate a faster approval process and enable us to proceed with our operations smoothly.
+3. Pilot Delays: In the case of unforeseen circumstances causing delays in the pilot project, we have
+contingency plans to ensure timely execution. Firstly, at the latest, we will aim to commence the
+pilot by October, prior to students and the public going on Christmas vacation. If this timeline is not
+feasible, our plan B involves conducting recipe testing and gauging customer demand among the
+focus groups without the physical kitchen setup. We will request participants to sign contracts for
+tasting our recipes and assess their willingness to pay before Christmas. Subsequently, we will
+initiate the public pilot kitchen as soon as possible by January when everyone returns from their
+Christmas vacation. Further, we will use the data analyzed to raise the next stage of funding from
+the investors.
+
+Team & Cultureg
+GI Healthcare takes pride in its exceptional team, comprising highly skilled individuals with diverse
+knowledge and expertise. While the Founder, Aswath GI, works full-time, the rest of the team
+members dedicate their time on a voluntary part-time basis, driven by their shared commitment to
+making healthy food accessible to anyone, anytime, anywhere.
+CEO: Aswath GI
+Ash, the Founder and CEO of GI Healthcare, manages the company's dayto-day activities. With a strong vision of providing healthy food, Aswath has
+successfully led the company, overcoming the challenges posed by the
+pandemic. Over the course of two years, he has built a robust network,
+assembled a dedicated team, secured initial funding, and developed the
+functional version of the AstroChef machines. Aswath handles overall
+administrative work, manages the team, seeks business support and funding
+opportunities, engages stakeholders, meets potential customers, and collaborates with the technical
+team to design, innovate and enhance the AstroChef machines. In the next coming years, Aswath
+will continue managing various aspects of the company, initially focusing on the Bootstrap kitchen,
+ensuring a smooth supply chain, directly assisting customers, and exploring investment
+opportunities to sustain and fulfil the company's vision.
+CTO: Adip Ranjan Das
+Adip, currently pursuing a Master's Degree in Robotics Engineering at the
+University of Bristol (UoB), brings valuable expertise to the team. With two
+years of work experience, Adip plays a key role as the head of the technical
+team. He dedicates his time on a voluntary part-time basis, driving innovation
+and overseeing the development of the AstroChef machines. Adip's proficiency
+in software enables him to develop AstroChef's firmware and user interface,
+38
+
+facilitating recipe selection. Upon graduation, starting from August 2023, Adip will join as a paid
+employee, with stock options, taking on the responsibility of advancing the development of
+AstroChef machines and gathering feedback from customers for continuous improvement.
+COO: Joesph Arroway
+Joe, currently pursuing a Master's in Bio-Medical Engineering at UWE, serves
+as the Chief Operating Officer (COO). Working part-time under a volunteer
+agreement, Joe manages operations, devises business strategies, establishes
+connections with stakeholders, and oversees the supply chain. Leveraging his
+medical background, Joe also contributes to maintaining and enhancing the
+nutritional aspects of the food prepared in the AstroChef machine. Joesph will
+continue in his role on a volunteer basis for another year, with a one-year cliff
+for shares, starting from August 2023. From the second year, as the company
+secures funding, Joe will transition into a full-time COO position.
+Senior Engineer: Sai Soma Shekhar
+Sai, a current Master's student in Robotics Engineering at UoB, brings
+creativity and technical expertise to the team. Assisting the CTO in developing
+AstroChef machines and designing mechanical components, Sai works parttime under a volunteer agreement. Starting in August 2023, Sai will transition
+to a full-time position, with the opportunity to receive company stock options.
+Business Strategist: Matimba Swana
+Matimba, an MBA graduate and PhD researcher in NanoMedicine at UoB,
+plays a crucial role as a Business Strategist. Working part-time at GI Healthcare
+through a volunteer agreement, Matimba assists the CEO and COO in making
+key business decisions and contributes to marketing activities. Following
+another year on a volunteer agreement, Matimba will graduate with her PhD
+and join the team full-time from the second year, incorporating her both
+business & medical expertise into the company's growth.
+Technician: Yassin Elsalamouny
+Yassin, an undergraduate student studying Robotics Engineering at UWE,
+serves as a Technician at GI Healthcare. Working alongside the CTO and
+Senior Engineer, Yassin contributes to the construction of AstroChef machines.
+Similar to other team members, Yassin will continue as a volunteer for another
+year, with a one-year cliff for shares in the company, starting from August
+2023. As the company raises funds, Yassin will transition into a part-time
+Technician intern role.
+
+39
+
+Culture:
+At GI Healthcare, we foster a strong culture of innovation, prioritizing fast prototyping and
+conducting internal team hackathons to drive rapid innovation. This culture has resulted in the
+invention of numerous technologies, swiftly integrated into the AstroChef machines within days.
+While our first functional prototype took three months to develop, our agile culture allowed us to
+create the latest machine, AstroChef Salamouny, in just one month. As a gesture of appreciation for
+our team members' contributions, we follow a tradition of naming each version of the AstroChef
+machine after them. For instance, our first version was named AstroChef Swana, honouring
+Matimba Swana, and the latest version is AstroChef Salamouny, named after Yassin Elsalamouny.
+The next version is called AstroChef Addas, honouring Adip Ranjan Das.
+
+Board Advisors:
+GI Healthcare benefits from the expertise of professional and experienced individuals in the role of
+Board Advisors. These advisors generously provide one year of pro bono support, after which they
+have the option to receive company share options or continue as Non-Executive Directors (NED).
+Janine Woodcock:
+Janine Woodcock is a highly skilled Leadership Coach who has worked
+with leaders from renowned companies such as Intel, AstraZeneca, and
+Nissan. Her specialization lies in enhancing leadership capabilities and
+driving improved business outcomes. She coaches the CEO and overall
+provides advice on company decisions. Additionally, Janine brings valuable
+knowledge of psychological marketing practices gained from her previous
+work experiences.
+Peter Bartlett:
+Peter Bartlett serves as our Product Strategist and brings a wealth of
+expertise to the team. As an Innovation Lecturer at the University of Bristol,
+Peter is well-versed in product strategy. He also has first-hand experience as
+a designer in successfully building billion-dollar companies. Furthermore,
+Peter's background from the United States provides valuable insights into
+scaling our operations in that market.
+James Eddy:
+James Eddy is an experienced R&D Specialist and currently works as a
+business manager at the UK Space Agency Accelerator. His track record
+includes successfully establishing a space company in the UK, and he
+brings valuable technical knowledge in the field of space technology.
+
+40
+
+Supporters:
+
+UK Space Agency Accelerator Support:
+GI Healthcare has received support from the UK Space Agency Accelerator and is collaborating
+with a talented group of engineers from UKSA and ESA. Together, they are exploring the
+development of a next-generation space kitchen that aims to provide fresh, healthy, and affordable
+food to astronauts in outer space after 2030, eliminating the need for expensive cargo transportation.
+SetSquared Bristol:
+Through the University of Bristol's NEC Growth support program, GI Healthcare has secured pro
+bono support from SetSquared Bristol for three months. SetSquared Bristol offers professional
+assistance from their entrepreneurs and advisers in residents. After the pro bono period, GI
+Healthcare intends to apply for paid support services.
+NatWest Accelerator:
+NatWest Accelerator has brought together a network of talented entrepreneurs from Bristol, creating
+a valuable community of founders. Within this community, entrepreneurs support one another and
+provide guidance on the operations and management of startups.
+Siemens:
+Following a thorough due diligence process, Siemens has generously provided GI Healthcare with a
+free Solid Edge CAD Software License for one year. This powerful software includes advanced
+simulation tools that significantly aid the manufacturing process of AstroChef machines.
+Launch Space & Bristol Robotics Lab (BRL) Incubator:
+UWE Launch Space Accelerator has graciously offered us an office space inside the BRL Incubator
+for GI Healthcare, it offers a complimentary workspace for conducting research and development
+activities involving mechanical and electronic components. In addition, they provide access to their
+workshop tools, 3D printers, and laser cutters to support our manufacturing process. The BRL
+Incubator also offers the assistance of their skilled technicians for our R&D and manufacturing
+endeavours.
+
+41
+
+UWE Student Ventures:
+GI Healthcare benefits from the support of UWE Student Ventures, which provides us with a free
+office space equipped with meeting rooms, tables, and monitors. Additionally, it allows companies
+to register their address free of charge. Currently, our company address is registered with Student
+Ventures.
+Furthermore, we have received support from Innovate UKRI Edge for IP Auditing and IPO funding
+support. We are also actively seeking a board advisor who possesses expertise in the restaurant
+business. This individual's insights and guidance will greatly contribute to our strategic decisionmaking process and further enhance our operations in the food industry. Also, by leveraging the
+services provided by the UK Endorsing Service, GI Healthcare can access a wide range of support
+and resources crucial for business growth, funding opportunities, market expansion, and product
+development. With the combination of these valuable supports, GI Healthcare is well-positioned to
+continue its growth trajectory and make a significant impact in the Healthy Food Industry.
+
+Growth Potentialityg
+Innovative:
+• GI Healthcare’s vision is to make affordable healthy food accessible to anyone, anytime
+anywhere. It’s Kitchen - NutriChef is a pioneering concept in the culinary industry, showcasing a
+remarkable level of innovation. What sets NutriChef apart is its integration of advanced robotic
+technology, revolutionizing the way meals are prepared and served. The autonomous deployable
+kitchen eliminates the need for highly skilled chefs, making it accessible to a wider audience.
+• At the heart of NutriChef lies AstroChef, an advanced autonomous cooking machine developed
+by the founder. This core technology drives the kitchen's efficiency, significantly reducing
+operational costs while maintaining exceptional food quality. By leveraging these cutting-edge
+machines, NutriChef stands out by offering freshly cooked, healthy meals at an affordable price
+compared to competitors. One of the key advantages of NutriChef's innovative approach is the
+ability for customers to personalize their orders, tailoring each meal to their specific health
+requirements and taste preferences. This level of customization, combined with the affordability
+of the service, ensures that customers can enjoy tailored, healthy meals on a daily basis.
+• Furthermore, the founder's visionary approach extends beyond earthly boundaries, as
+demonstrated by their commitment to developing an autonomous cooking machine suitable for
+outer space environments. This dedication to innovation has led to the incorporation of advanced
+technologies that enable complete autonomy in food preparation. Remarkably, the achievement of
+creating machine sizes similar to a double oven is an unprecedented breakthrough in the
+autonomous culinary industry. Moreover, sustainability is a key aspect of the machine's design,
+with a focus on optimizing resource utilization, reducing energy and water consumption, and
+minimizing food waste. By prioritizing sustainability, GI Healthcare aims to create a positive
+impact on both the environment and the culinary industry as a whole.
+
+42
+
+• The innovative nature of GI Healthcare and its visionary leadership has already garnered
+recognition. The company has been selected as a finalist for the esteemed South West England
+Best Innovative Start-up Award 2023, highlighting its groundbreaking contributions to the
+industry. (Final results to be announced on June 15th, 2023). GI Healthcare's commitment to
+pushing boundaries and embracing cutting-edge technology makes it a true trailblazer in the
+culinary landscape.
+
+Viable:
+• GI Healthcare's business plan outlines a practical and economically feasible approach. The first
+step involves setting up a fully functional kitchen at the UWE Campus. This kitchen will be
+housed in a repurposed 12ft shipping container, equipped with essential kitchen facilities such as
+a sink, water heater, fridge, dishwasher, serving tables, fire extinguishers, and space for three
+AstroChef autonomous cooking machines. The cost of the shipping container, including flooring,
+electrical installations, and water tank facilities, amounts to approximately £5000, and the kitchen
+equipment will require an investment of around £2000.
+• The AstroChef machines, which are the heart of the operation, have been meticulously developed
+by our skilled team. The latest version, the AstroChef Salamouny, has already demonstrated its
+capabilities by autonomously preparing five delicious meals from start to finish. The cost of
+manufacturing each machine is estimated to be around £6000. We source the actuator parts from
+Florida, USA (£500), motors and electronic components from Shenzhen, China (£1500), and
+stainless steel & aluminium extrusion metal parts from Chennai, India (£2000). Once these parts
+arrive, our team assembles them along with 3D-printed, laser-cut parts and other necessary
+components (£2000) at our Pro-Bono facility, utilizing the workshop and industrial-grade 3D
+printers and laser cutters available at the Bristol Robotics Lab. The assembly process, supported
+by our talented team of Robotics Engineers, takes approximately a day per machine. Finally, our
+proprietary AI Chef Software, responsible for automating the cooking process, is loaded onto
+each machine and tested.
+• The total cost for setting up the entire kitchen, including equipment and AstroChef machines,
+amounts to approximately £25,000. This investment will be covered by the Founder's family
+funding of £60,000, which also includes the running costs projected in the income statement of
+the financial forecast.
+• Extensive research and surveys have been conducted to identify the existing demand for healthy
+food within the local community. The founder has acquired valuable marketing, pitching and
+business skills through attending workshops organized by the Launch Space Accelerator, NatWest
+Accelerator, and UK Space Agency Accelerator. Furthermore, a professional network of
+experienced individuals in the food business has been established, providing ongoing support.
+Strategic partnerships with suppliers, farmers, and technology manufacturers ensure a reliable
+supply chain and cost-effective operations. Additionally, collaboration with UWE Head Chef and
+lecturers ensures compliance with regulatory requirements.
+43
+
+• With the aim of starting operations by October 2023, the GI Healthcare team will begin selling
+healthy food from the pilot kitchen. The success of the pilot will pave the way for establishing
+three NutriChef Kitchens in Bristol, supported by investor funding as depicted in the financial
+projections. The founder also aims to get business support from the UK Endorsing business
+incubator for future SEIS fundraising. Finally, our commitment to sustainable practices aligns
+with current market trends and consumer preferences, further reinforcing the viability of our
+business.
+
+Scalable:
+One of the key strengths of GI Healthcare's NutriChef Kitchen is its scalability. By utilizing
+shipping containers as the foundation for our kitchens, we benefit from their ability to easily
+relocate to high-demand areas with minimal time and cost involved in the setup process. This
+flexibility allows us to swiftly establish kitchens in various cities and communities.
+
+Furthermore, the AstroChef machines' autonomy eliminates the need for skilled chefs, as a single
+staff member can efficiently operate the entire kitchen with just 2 hours of training. This reduces the
+dependency on skilled Chefs during the expansion phase and enables us to scale our kitchen
+operations into new cities and countries using the franchise business model. Our kitchen technology
+will be designed and manufactured in the UK, thereby the shipping container design allows for easy
+shipment to other countries during our global expansion efforts.
+Extensive market research conducted by GI Healthcare has revealed a clear demand in both the UK
+and global markets. We have developed a well-defined 5-year roadmap for scaling up our
+operations in different cities within the UK by year 5. This expansion plan will result in the creation
+of 48 jobs over the next five years. With five years of experience and continuous research and
+development, we will refine our kitchen technology, increase sales, and gradually expand into the
+US and UAE markets in year 6 using the franchise model. It is worth noting that the UK currently
+faces productivity challenges, with [56] a productivity rate 10% lower than other G7 nations,
+attributed to labour shortages and slower adoption of automation. Consequently, the UK
+government is [57] actively investing in Robotics & AI, embracing the growth of the robotics
+market. This favourable environment positions us at the right time to start our journey in the UK
+and expand globally allowing us to compete effectively against formidable competitors and make
+healthy food accessible to anyone, anytime, anywhere.
+
+44
+
+Futureg
+
+Having successfully operated the NutriChef Kitchen for a period of over five years, we will
+leverage this achievement as strong evidence of AstroChef's performance. Our next goal is to secure
+a UK Defence contract to develop robust deployable kitchens with off-the-grid solar technology for
+the military with the help of this evidence. Furthermore, we plan to collaborate with the United
+Nations (UN) to provide assistance in disaster relief situations by offering our machines.
+Additionally, the UK government is investing in a next-generation pandemic readiness unit, which
+involves the rapid deployment of hospitals. We aim to contribute to this initiative by integrating our
+kitchens, ensuring that patients in such critical situations have access to healthy food.
+Potential Partnership:
+In light of the emerging advancements in DNA
+nutrition testing, we intend to collaborate with
+these innovative companies to assist our
+customers in identifying their precise
+nutritional requirements and achieving a wellbalanced diet using our machine. This market
+is experiencing rapid growth and is [58]
+expected to reach a value of $1.3 billion by
+2030, with a compound annual growth rate
+(CAGR) of 16.7%. By forming strategic
+partnerships, our goal is to enter this expanding
+market and offer our customers enhanced
+benefits, expanding our reach to a wider
+consumer base.
+
+45
+
+Space Ambition:
+Our overarching vision extends beyond providing access to healthy food for humans on Earth. We
+also aspire to enable future space explorers to enjoy freshly cooked, home-style meals on Mars and
+beyond. This far-reaching vision has been the driving force behind our team and innovation since
+day one. Presently, the cost of sending a single-pound meal to the International Space Station (ISS)
+amounts to [59] approximately $18,000, while NASA estimates that sending food to a crew of six
+individuals to Mars incurs a [60] delivery cost of around $2 billion. With the space exploration and
+tourism industry flourishing, with companies like SpaceX planning to transport 100 space explorers
+to Mars using their rocket StarShip, and Orbital Assembly launching their first Space Business Park
+Hotel - Pioneer Station (accommodating 28 explorers) in 2025, followed by Voyager (a luxury hotel
+with rooms for 440 space tourist) in 2030, there is a growing demand and market for innovation in
+the space culinary industry.
+The emergence of space farming technology, as
+demonstrated by [61] NASA's successful
+cultivation of food using lunar soil, has made it
+feasible and optimistic to obtain fresh food
+supplies on Mars. However, the absence of
+cooking facilities or machinery in space poses
+a challenge. GI Healthcare stands as the
+world's first company to identify the expanding
+demand for space food technology. Through
+our innovation and ongoing research and
+development efforts, we aim to provide
+AstroChef machines to space habitats, starting after 2030. We are actively engaged with the UK
+Space Agency Accelerator, getting support from space industry experts to achieve our extraordinary
+dream and create a healthy world.
+
+Future AstroChef Kitchen on Lunar Base
+
+46
+
+Referenceg
+1.
+
+10 Ways the UK’s eating habit has changed, “www.bbc.com”, 2016
+
+2.
+
+Number of people living with diabetes, “https://www.diabetes.org.uk/”, 2023
+
+3.
+
+British heart foundation Facts & Figures, “www.bhf.org.uk/”, 2023
+
+4.
+
+Dementia Statistics Hub, “https://dementiastatistics.org/”, 2023
+
+5.
+
+Cancer Statistics of UK, “https://www.cancerresearchuk.org/”, 2023
+
+6.
+
+UK’s Elderly Malnutrition, “https://www.bda.uk.com”, 2023
+
+7.
+
+Accommodation and food service staff shortage, “https://commonslibrary.uk”,2023
+
+8.
+
+Impact of UK’s disastrous Food Policy, “https://foodfoundation.org.uk”, 2023
+
+9.
+
+UK Labour Cost Increase, “https://www.statista.com/statistics/”, 2023
+
+10. Current energy price, “https://www.ons.gov.uk/.”, 2023
+11. Shipping Container Market Price, “https://www.containerconversions.com/”, 2023
+12. UK Student Average Food Spending, “https://thinkstudent.co.uk ”
+13. NUS Study Students can’t afford food. “https://www.dazeddigital.com”, 2023
+14. Sutton Trust Student Research, “https://www.theguardian.com”, 2023
+15. Students Cooking Habits, “https://pubag.nal.usda.gov”, 2022
+16. Britons shift to a healthy diet during the pandemic, “https://www.nutrition.org.uk.”, 2021
+17. Population following a healthy diet, “https://www.statista.com”, 2023
+18. Growth in the healthy food market, “https://www.statista.com”, 2022
+19. Growing Vegan trend, “https://www.finder.com ”, 2023
+20. The poorest pay more than rich for healthy food, “https://foodfoundation.org.uk”, 2023
+21. British Entrepreneur wanting to start a food business, “https://startups.co.uk”, 2023
+22. UK Food Hygiene Approval, “https://www.food.gov.uk”, 2022
+23. UK NSF Certification process, “https://www.nsf.org”, 2023
+24. EPREL Energy rating European Commission, “https://commission.europa.eu”, 2023
+25. UKCA Gov Rules, “https://www.gov.uk”, 2023
+26. Food Registration Process, “https://www.food.gov.uk…”, 2023
+27. UWE Bristol Statistics, “https://www.uwe.ac.uk”, 2023
+28. Stoke Gifford Retirement Village Statistics, “https://www.extracare.org.uk”, 2023
+29. 70% Online Food Delivery Market, “https://www.appmysite.com”, 2022
+30. Number of Dark Kitchens in the UK, “https://techmonitor.ai”, 2023
+31. Cloud Kitchen Market size, “https://www.digitaljournal.com/”, 2022
+32. Eddie Yoon Harvard Research don’t like cooking, “https://www.linkedin.com”, 2023
+33. US people try following a healthy diet, “https://thebarbecuelab.com”, 2023
+47
+
+34. Many in the US can’t afford healthy food, “https://www.ipsos.com”, 2023
+35. UAE wants Healthy food, “https://www.arabianbusiness.com”, 2022
+36. UAE SEHHI Program, “https://www.zawya.com”, 2023
+37. Healthy food on Vending Machines, “https://www.foodnavigator-asia.com”, 2023
+38. UK Contract Catering Market 2022, “https://store.mintel.com/”, 2022
+39. Global Catering Service Market, “https://www.expertmarketresearch.com”, 2023
+40. UK University Statistics, “https://www.studyin-uk.com…”, 2023
+41. UK Students Statistics, “https://www.universitiesuk.ac.uk ”, 2023
+42. US University Statistics, “https://admissionsight.com”, 2023
+43. US Higher Education Students Statistics, “https://nces.ed.gov”, 2023
+44. UAE Universities & Students Statistics, “https://www.qaa.ac.uk”, 2023
+45. Global Senior adults food Market, “https://www.globenewswire.com”, 2023
+46. UK Elderly Population Statistics, “https://www.mha.org.uk”, 2023
+47. UK Retirement Village Statistics, “ https://www.audleyvillages.co.uk”, 2023
+48. UK Carehome Statistics, “https://www.carehome.co.uk”,2023
+49. US Retirement Homes Statistics, “https://www.statista.com”, 2023
+50. US Elderly Population Statistics, “https://www.americashealthrankings.org, 2023
+51. EU Elderly Population Statistics, “https://ec.europa.eu”, 2023
+52. India Cloud Kitchen Statistics, “Ihttps://retail.economictimes.in”, 2023
+53. China Cloud Kitchen Statistics, “https://www.technavio.com”,2023
+54. Elderly Can’t cook food safely, “https://www.carehome.co.uk”, 2023
+55. Restaurant sales statistics, “https://askwonder.com/”, 2017
+56. UK Productivity gap, “https://www.ons.gov.uk”, 2023
+57. UK’s Robotics Strategy, “https://www.deangrup-int.co.uk”, 2018
+58. Nutrigenomics Market size, “https://www.verifiedmarketresearch.com”, 2022
+59. Sending food to ISS, “https://www.columbiatribune.com”, 2018
+60. Sending Humans to Mars, NASA, “https://ntrs.nasa.gov”, 2016
+61. NASA Growing food on Lunar Soil, “https://www.nasa.gov/”, 2022
+
+48
+
+Appendixg
+Founder CV:
+
+49
+
+50
+
+Technology RoadMap:
+
+This roadmap outlines our planned technological advancements and innovations, highlighting the
+key milestones and initiatives we aim to accomplish during this period. The roadmap is presented in
+the Financial Forecast document with a high-quality Image format.
+
+51
+
+UK Space Agency Letter:
+
+52
+
+South West England Best Innovative Start-Up Award Finalist 2023:
+
+53
+
+
